@@ -1,0 +1,69 @@
+body	{
+	font-style: normal;
+	font-family: arial, san-serif;
+	font-size: 14px;
+	background-color: #fff;
+}
+.tablePart	{
+	margin-left: 80%;
+	padding: 10px;
+}
+.pad1	{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.nccPart	{
+	height: 30px;
+	width: 38px;
+	border-radius: 3px;
+}
+.mainPart	{
+	margin-top: 180px;
+	margin-bottom: 140px;
+}
+.googleLogoPart	{
+	width: 272px;
+	margin: 0 auto;
+	margin-left: 35%;
+	margin-bottom: 20px;
+}
+.inputPart	{
+	width: 352px;
+	margin-left: 30%;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+.buttonPart1	{
+	font-size: 15px;
+	width: 150px;
+	height: 40px;
+	margin-left: 34%;
+	margin-bottom: 20px;
+	padding: 10px 12px;
+	border: none;
+	background-color: rgb(234,234,228);
+}
+.buttonPart2	{
+	font-size: 15px;
+	width: 150px;
+	height: 40px;
+	//margin-left: 1%;
+	margin-bottom: 20px;
+	padding: 10px 12px;
+	border: none;
+	background-color: rgb(234,234,228);
+}
+.footPart	{
+	width: 95%;
+	//margin: 20px;
+	padding: 20px;
+	font-size: 16px;
+	color: rgb(37,37,36);
+	background-color: rgb(234,234,228);
+}
+.aLeft, .aRight	{
+	padding-left: 15px;
+}
+.filler	{
+	padding-left: 170%;
+}
